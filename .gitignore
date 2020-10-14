@@ -1,0 +1,4 @@
+apps/mpd/config.php
+apps/mpd/albumArt/*
+apps/mpd/output.png
+
